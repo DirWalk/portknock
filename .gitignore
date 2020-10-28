@@ -130,3 +130,6 @@ dmypy.json
 
 # knock_secrets.py
 knock_secrets.py
+
+# knock_server.py
+knock_server.py
